@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(230, 169, 201);
+}
+
+Img {
+    height: 200px;
+    border: 6px groove rgb(49, 12, 119);
+}
+
+.marco1 {
+    border: 4px solid rgb(102, 2, 102);
+    padding: 4px;
+    margin: 4px;
+}
+
+.titulo {
+    border: 10px double rgb(102, 2, 102);
+    padding: 3px;
+    margin: 4px;
+    background-color: rgb(192, 131, 165);
+    text-align: center;
+    font-family:'Oswald', sans-serif; 
+}
+
+.nombre {
+    border: 6px inset rgb(112, 51, 112);
+    padding: 2px;
+    margin: 4px;
+    background-color: rgb(238, 235, 236);
+    display: flex;
+    justify-content: flex-start;
+}
+
+.grado {
+    border: 6px outset rgb(112, 51, 112);
+    padding: 2px;
+    margin: 4px;
+    background-color: rgb(238, 235, 236);
+}
+
+.colores {
+    border: 6px inset rgb(112, 51, 112);
+    padding: 2px;
+    margin: 4px;
+    background-color:  rgb(235, 215, 236);
+    
+}
+
+.sabados {
+    border: 6px outset rgb(112, 51, 112);
+    padding: 2px;
+    margin: 4px;
+    background-color: rgb(238, 235, 236);
+    display: flex;
+    justify-content: center;
+}
+
+.futuro {
+    border: 6px inset rgb(112, 51, 112);
+    padding: 2px;
+    margin: 4px;
+    background-color: rgb(238, 235, 236);
+}
+
+h2 {
+    color: rgb(49, 12, 119);
+    font-family:Arial Black ;
+    text-align: center;
+}
+.dos{
+    display: flex;
+    justify-content: space-around;
+    border: 8px dotted rgb(112, 51, 112);
+    background-color: rgb(230, 160, 236);
+    margin: 4px;
+    padding: 2px;
+}
+.dos1{
+    display: flex;
+    justify-content: space-around ;
+    border: 8px dashed rgb(112, 51, 112);
+    background-color: rgb(230, 160, 236);
+    margin: 4px;
+    padding: 2px;
+} 
+.comi {
+    text-align: center;
+    border: 6px groove rgb(112, 51, 112);
+    padding: 2px;
+    margin: 4px;
+    background-color:  rgb(235, 215, 236);
+}
